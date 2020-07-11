@@ -1,0 +1,128 @@
+body {
+    font-size: 20px;
+    color: #041E42;
+    background-color: #AFEADC;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+    background-color: #041E42;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand {
+    padding-top: 25px;
+}
+
+.navbar-brand h1 {
+    font-family: 'Lora', sans-serif;
+    color: #AFEADC;
+    font-size: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+    line-height: .75px;
+}
+
+.navbar-brand a {
+    text-decoration: none;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin: 8px 15px 8px 0px;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-image: none;
+}
+
+.navbar-toggle:hover {
+    outline: 0;
+}
+
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 4px;
+}
+
+.navgar-toggle .icon-bar + .icon-bar {
+    margin-top: 4px;
+}
+
+#nav-list {
+    margin-top: 10px;
+}
+
+#nav-list a {
+    color: aquamarine;
+    text-align: center;
+
+}
+
+#nav-list a:hover {
+    border: 1px solid #fff;
+}
+
+#nav-list a span {
+    font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle,
+.navbar-header .icon-bar {
+    border: 1px solid #AFEADC;
+}
+
+.navbar-header button.navbar-toggle,
+.navbar-header .icon-bar {
+    border: 1px solid #AFEADC;
+}
+
+#menu-title {
+    margin-top: 0;
+    font-weight: bold;
+}
+
+#chicken,
+#sushi,
+#beef {
+    background-color: #041E42;
+    color: #AFEADC;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px black;
+}
+
+
+#chicken h3,
+#sushi h3,
+#beef h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    #chicken,
+    #sushi,
+    #beef {
+        padding: 10px;
+    }
+}
+
+@media (max-width: 767px) {
+
+    #chicken,
+    #sushi,
+    #beef {
+        width: 85vw;
+        margin-left: 30px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
