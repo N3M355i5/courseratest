@@ -15,3 +15,10 @@
     <li><strong><a href="https://n3m355i5.github.io/courseratest/mod3_sol/" target="_blank" style="text-decoration:none">Solutions</a></strong></li>
   </ul>
 </p>
+<h2>Factus est a Me</h2>
+<p>
+  <ul>
+    <li><strong>Asite built with the help of the course but mostly me:</strong></li>
+    <li><strong><a href="https://n3m355i5.github.io/courseratest/Week%203/" target="_blank" style="text-decoration:none">Solutions</a></strong></li>
+  </ul>
+</p>
