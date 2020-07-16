@@ -8,3 +8,17 @@
     <li><strong><a href="https://n3m355i5.github.io/courseratest/mod2_sol/" target="_blank" style="text-decoration:none">Solutions</a></strong></li>
   </ul>
 </p>
+<h3>Module 3</h3>
+<p>
+  <ul>
+    <li><strong><a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md" target="_blank" style="text-decoration:none">CheckPoints</a></strong></li>
+    <li><strong><a href="https://n3m355i5.github.io/courseratest/mod3_sol/" target="_blank" style="text-decoration:none">Solutions</a></strong></li>
+  </ul>
+</p>
+<h2>Factus est a Me</h2>
+<p>
+  <ul>
+    <li><strong>A site built with the help of the course but mostly me:</strong></li>
+    <li><strong><a href="https://n3m355i5.github.io/courseratest/Week%203/" target="_blank" style="text-decoration:none">Click Me!</a></strong></li>
+  </ul>
+</p>
