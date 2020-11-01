@@ -22,6 +22,13 @@
     <li><strong><a href="https://n3m355i5.github.io/courseratest/mod4_sol/" target="_blank" style="text-decoration:none">Solutions</a></strong></li>
   </ul>
 </p>
+<h3>Module 5</h3>
+<p>
+  <ul>
+    <li><strong><a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-5.md" target="_blank" style="text-decoration:none">CheckPoints</a></strong></li>
+    <li><strong><a href="https://n3m355i5.github.io/courseratest/mod5_sol/" target="_blank" style="text-decoration:none">Solutions</a></strong></li>
+  </ul>
+</p>
 <h2>Factus est a Me</h2>
 <p>
   <ul>
